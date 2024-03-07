@@ -5,7 +5,7 @@
          version="4.0">
     <servlet>
         <servlet-name>mainServlet</servlet-name>
-        <servlet-class>com.example.javasastanalysis.MainServlet</servlet-class>
+        <servlet-class>com.example.jwave.MainServlet</servlet-class>
         <load-on-startup>1</load-on-startup>
         <multipart-config>
             <!-- enter your values -->
